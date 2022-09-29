@@ -3,7 +3,7 @@ import Link from "next/link";
 const Hero = () => {
   return (
     <div className="flex flex-col justify-center space-y-5">
-      <h1 className="text-4xl font-extrabold text-gray-900">Kiran Krishnan</h1>
+      <h1 className="text-4xl font-extrabold text-gray-900">Harky</h1>
       <h2 className="text-xl font-bold text-gray-700">
         Software Engineer (Open Source, Dev Tools) @ BoxyHQ
       </h2>

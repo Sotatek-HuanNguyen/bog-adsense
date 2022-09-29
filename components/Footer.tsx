@@ -4,8 +4,8 @@ const Footer = () => {
       <div className="items-center">
         <p>
           Build using
-          <a href="https://github.com/devkiran/nextjs-freelance-template">
-            &nbsp;NextJS Freelance Template (Open Source)
+          <a href="https://github.com/Sotatek-HuanNguyen">
+            &nbsp;Front-end developer
           </a>
         </p>
       </div>
